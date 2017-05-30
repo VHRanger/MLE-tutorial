@@ -1,2 +1,2 @@
 # MLE-tutorial
-Implementing and vectorizing a Maximum Likelihood model with scipy
+Tutorial for implementing and vectorizing a Maximum Likelihood model with scipy
